@@ -1,4 +1,6 @@
-# Animated_figure_tracking" 
+# Animated_figure_tracking
+
+Watch the video here : https://www.youtube.com/watch?v=iQ1YJE9oDRs
 
 This directory contains the following :
 
