@@ -1,0 +1,10 @@
+item {
+  id: 1
+  name: 'the_little_guy'
+}
+item {
+  id: 2
+  name: 'pink_panther'
+}
+
+
